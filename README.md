@@ -23,3 +23,7 @@ https://Riftsail.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by Alex Dale
+
+
+
+### ©2019 Run Buddy, Inc
